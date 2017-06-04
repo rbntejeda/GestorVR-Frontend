@@ -1,0 +1,20 @@
+{
+  "name": "gestorvr",
+  "version": "0.0.1",
+  "description": "Encargado de administrar el sistema de evaluacion de dispositivos de realidad virtual",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-i18n": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-sanitize": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1",
+    "underscore": "^1.8.3"
+  }
+}
